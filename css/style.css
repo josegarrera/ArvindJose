@@ -24,14 +24,15 @@ h1 {
   line-height: 80px;
   vertical-align: middle;
 }
-input {
-}
+
 form {
   width: 70%;
   font: 30px;
   margin: 0 auto;
+  
 }
 #form {
   justify-content: center;
   width: 70%;
+  background-color: blueviolet;
 }
